@@ -1,0 +1,39 @@
+{
+  "productos": [
+    {
+      "id": 4,
+      "nombre": "Pastel de Zanahoria y papas",
+      "precio": "90"
+    },
+    {
+      "nombre": "Pastel de Chocolate",
+      "precio": "60",
+      "id": 5
+    },
+    {
+      "nombre": "Pastel de Fresa",
+      "precio": "40",
+      "id": 6
+    },
+    {
+      "nombre": "lapiz",
+      "precio": "2000",
+      "id": 7
+    },
+    {
+      "nombre": "caja",
+      "precio": "200",
+      "id": 8
+    },
+    {
+      "nombre": "cuaderno",
+      "precio": "200",
+      "id": 9
+    },
+    {
+      "nombre": "Hojas",
+      "precio": "3330",
+      "id": 10
+    }
+  ]
+}
